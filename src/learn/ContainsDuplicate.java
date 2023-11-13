@@ -28,4 +28,3 @@ public class ContainsDuplicate {
         System.out.println(solution.containsDuplicate(nums4));
     }
 }
-}
