@@ -7,14 +7,14 @@ class NumArray {
         aux = new int[nums.length];
         int s = 0;
         for (int i = 0; i < nums.length; i++) {
-            aux[i] = nums[i]+ s;
+            aux[i] = nums[i]+ s;// cada i do aux vai receber a soma de 0 até i do array original
             s = aux[i];
         }
 
     }
     public int sumRange(int left, int right) {
-        if(left == 0) return aux[right];
-        else return aux[right] - aux[left-1];
+        if(left == 0) return aux[right];// se i for 0 entao j ja tem o resultado pronto calculado no array auxiliar
+        else return aux[right] - aux[left-1]; // formula para calcular o intervalo de i até j
     }
     //LeetCode-303. Range Sum Query - Immutable
     public static void main(String[] args) {
