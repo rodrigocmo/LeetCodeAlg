@@ -1,4 +1,4 @@
-package learn;
+package patterns.TwoPointers;
 
 public class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {
