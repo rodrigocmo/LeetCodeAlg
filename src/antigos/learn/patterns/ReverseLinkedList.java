@@ -1,4 +1,4 @@
-package learn;
+package antigos.learn.patterns;
 
 public class ReverseLinkedList {
 }

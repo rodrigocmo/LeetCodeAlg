@@ -1,4 +1,4 @@
-package patterns.contagemfrequencia;
+package antigos.learn.patterns.contagemfrequencia;
 
 import java.util.Arrays;
 import java.util.HashMap;

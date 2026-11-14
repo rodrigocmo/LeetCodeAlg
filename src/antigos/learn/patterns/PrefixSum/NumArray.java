@@ -1,4 +1,4 @@
-package patterns.PrefixSum;
+package antigos.learn.patterns.PrefixSum;
 
 class NumArray {
     int[] aux;

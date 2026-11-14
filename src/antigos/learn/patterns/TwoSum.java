@@ -1,4 +1,4 @@
-package learn;
+package antigos.learn.patterns;
 
 import java.util.HashMap;
 import java.util.Map;

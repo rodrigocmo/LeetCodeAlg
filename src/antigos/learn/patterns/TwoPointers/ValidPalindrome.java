@@ -1,4 +1,4 @@
-package patterns.TwoPointers;
+package antigos.learn.patterns.TwoPointers;
 public class ValidPalindrome {
     public static void main(String[] args) {
         System.out.println(isPalindrome("rar"));

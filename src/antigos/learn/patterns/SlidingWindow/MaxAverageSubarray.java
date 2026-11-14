@@ -1,4 +1,4 @@
-package patterns.SlidingWindow;
+package antigos.learn.patterns.SlidingWindow;
 
 public class MaxAverageSubarray {
 
